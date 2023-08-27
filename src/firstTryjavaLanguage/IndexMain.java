@@ -22,6 +22,8 @@ public class IndexMain {
        float n = 14e2f;
          System.out.println(n);
               System.out.println(m);
+              String jasper =("jasperngo"); 
+              System.out.println(jasper);
         // TODO code application logic here
     }
     
