@@ -25,6 +25,17 @@ public class IndexMain {
               String jasper =("jasperngo"); 
               System.out.println(jasper);
         // TODO code application logic here
-    }
+        String j = "Jasper" ;
+        String lastName = "Ngo" ;
+        System.out.println(j + " " +lastName);
+        String txt ="Daniella \"holandez\" ag aking pangalan ";
+        
+                System.out.println(txt);
+                {String index = " ako po si \n\"Jasper\"";
+                System.out.println(index);
+                
+                }
+        
+    }  
     
 }
