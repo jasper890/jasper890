@@ -30,8 +30,8 @@ Welcome to my GitHub! I’m a student and web developer who loves to build, lear
 
 ## 🤝 Connect
 
-- [LinkedIn](#) *(add your link)*
-- [Twitter](#) *(add your link)*
+- [LinkedIn](#) *(https://www.linkedin.com/in/jasper-ryan-ngo/)*
+
 
 ---
 
