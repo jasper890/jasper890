@@ -41,7 +41,8 @@
 </div>
 
 ## 📜 Badges
-![JavaScript Essentials 1 Badge](images/js-essentials-badge.png)
+[![JavaScript Essentials 1 Badge](image.png)](https://www.credly.com/badges/4d07ae8c-c638-447d-b276-6dac72195c81/public_url)
+
 
 ## 📊 GitHub Stats
 
