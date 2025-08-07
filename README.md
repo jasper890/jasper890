@@ -37,9 +37,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
   <img src="https://img.shields.io/badge/n8n-A82B92?style=for-the-badge&logo=n8n&logoColor=white" height="28" title="n8n"/>
   <img src="https://img.shields.io/badge/GeminiAPI-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28" title="Gemini API"/>
+
 </div>
 
----
+## 📜 Badges
+![JavaScript Essentials 1 Badge](images/js-essentials-badge.png)
 
 ## 📊 GitHub Stats
 
