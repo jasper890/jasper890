@@ -48,11 +48,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasper890&show_icons=true&theme=tokyonight&cache_seconds=86400" width="290" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper890&layout=compact&theme=tokyonight&cache_seconds=86400" width="262" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jasper890&show_icons=true&theme=tokyonight&cache_seconds=86400" width="290" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper890&layout=compact&theme=tokyonight&cache_seconds=86400" width="262" />
+</p>
 
 ---
 
