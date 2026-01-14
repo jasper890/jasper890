@@ -48,7 +48,8 @@
 
 ## 📊 GitHub Stats
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasper890&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=jasper890&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=jasper890&layout=compact&theme=tokyonight)
 
 ---
 
