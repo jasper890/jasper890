@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Jasper — A Quiet Builder Passionate About Coding</h1>
 
 <p align="center">
-  Welcome to my GitHub! I’m a student and Full web developer who loves to build, learn, and automate.<br>
+  Welcome to my GitHub! I’m a student and Full-stack web developer who loves to build, learn, and automate.<br>
   Here you’ll find a collection of my projects, experiments, and contributions.
 </p>
 
